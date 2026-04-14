@@ -3,3 +3,5 @@
 /tmp/
 data/labeled/no_plug/1703.csv
 data/labeled/plug/1003.csv
+data/labeledAndAnomaly/no_plug/1703.csv
+data/labeledAndAnomaly/plug/1003.csv
