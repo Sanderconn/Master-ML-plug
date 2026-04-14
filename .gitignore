@@ -1,3 +1,5 @@
 .DS_Store
 **/.DS_Store
 /tmp/
+data/labeled/no_plug/1703.csv
+data/labeled/plug/1003.csv
