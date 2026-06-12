@@ -7,4 +7,4 @@ data/labeledAndAnomaly/no_plug/1703.csv
 data/labeledAndAnomaly/plug/1003.csv
 notebooks/standardize_copy.ipynb
 /PRONTO benchmark case study/
-/testset/
+verification/3w/data
