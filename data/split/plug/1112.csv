@@ -1,4 +1,4 @@
-Time,Pressure before pump (Arith. Mean),Pressure after pump (Arith. Mean),Differential pressure (Arith. Mean),Flow rate (Arith. Mean),Tank temperature (Arith. Mean),Temperature TS inlet (Arith. Mean),Temperature TS outlet (Arith. Mean),Bypass temperature (Arith. Mean),reading_interval_s,elapsed_runtime_s,elapsed_runtime_m
+Time,TS outlet pressure (Mean),Pump outlet pressure (Mean),Differential pressure (Mean),Flow rate (Mean),Tank temperature (Mean),Temperature TS inlet (Mean),Temperature TS outlet (Mean),Bypass temperature (Mean),reading_interval_s,elapsed_runtime_s,elapsed_runtime_m
 2021-12-11 12:02:18.809,0.404055,0.597512,0.658216,1501.167042,-1.22548,-1.10812,-1.107569,24.516112,0.949,1190.773,19.846216666666667
 2021-12-11 12:02:19.710,0.402606,0.59666,0.658615,1497.836251,-1.200385,-1.103089,-1.10337,24.515337,0.901,1191.674,19.861233333333335
 2021-12-11 12:02:20.610,0.402589,0.596007,0.657299,1498.079585,-1.190898,-1.096616,-1.10824,24.51931,0.9,1192.574,19.876233333333335
