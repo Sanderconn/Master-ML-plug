@@ -1,0 +1,6 @@
+name,source,n_samples,fa_state2_normal,fa_first_state2_idx,sustained_state1_normal,normal_pred0,normal_pred1,normal_pred2,normal_pred3,outcome
+Well_3_1405,real,17932,0,,False,1.0,0.0,0.0,0.0,clean
+Well_7_0108,real,7185,0,,False,1.0,0.0,0.0,0.0,clean
+Well_5_1708,real,10747,0,,False,1.0,0.0,0.0,0.0,clean
+Well_6_2008,real,17755,0,,False,1.0,0.0,0.0,0.0,clean
+POOLED (sample-weighted; fa column = count),,53619,0,,,1.0,0.0,0.0,0.0,
