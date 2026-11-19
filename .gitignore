@@ -10,3 +10,7 @@ notebooks/standardize_copy.ipynb
 verification/3w/data
 verification/3w/zips
 .vscode
+/old_models/
+/old_notebooks/
+/verification/3w/old/
+/verification/3w/old_models/

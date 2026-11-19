@@ -1,0 +1,9 @@
+class_folder,name,source,hit_state1_event,hit_state2_event,hit_state3_event,outcome
+3,Well_14_2810,real,False,False,False,miss
+3,Well_14_1709,real,True,False,False,state1_only
+3,Well_14_2509,real,True,True,False,responded_in_steady
+3,Sim_67,sim,True,True,False,responded_in_steady
+4,Well_1_1603,real,False,False,False,miss
+4,Well_7_1705,real,False,False,False,miss
+4,Well_10_1604,real,False,False,False,miss
+4,Well_14_1509,real,False,False,False,miss
