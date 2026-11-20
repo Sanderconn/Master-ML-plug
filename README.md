@@ -38,6 +38,16 @@ The model is trained on ice-slurry plugging experiments from the HVL flow loop a
 │   ├── lstm.ipynb
 │   ├── lstm_no_anom.ipynb
 │   └── comparison.ipynb
+├── Verification/
+│   ├── 3w/
+│   │   ├── data/             # 3W runs, one folder per class (0–8); not included
+│   │   └── applying_model_to_3W.ipynb
+│   └── outputs/
+│       ├── 0/ … 8/           # Per-run results and plots, one folder per event class
+│       ├── figures/          # Combined figures used in the thesis
+│       ├── st_app.py         # Streamlit app for browsing the per-run plots
+│       ├── summary.csv       # One row per run with all metrics
+│       └── table_*.csv       # Summary tables for the Results chapter
 └── Description of cases.docx   # Documentation of the experimental runs
 ```
 
@@ -125,6 +135,15 @@ The second part of the notebook builds the combined figures used in the thesis (
   - `table_outcomes_events.csv` and `table_outcomes_normal_only.csv`: outcome counts
   - `table_excluded_not_normal_start.csv`: runs excluded because they do not start in normal operation
 - `outputs/figures/`: the figures used in the thesis.
+
+### Browsing the plots
+
+`st_app.py` is a small Streamlit app for looking through the per-run plots in `outputs/0`–`outputs/8`:
+
+```bash
+cd Verification/outputs
+streamlit run st_app.py
+```
 
 
 ## Requirements
