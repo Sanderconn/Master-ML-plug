@@ -104,7 +104,7 @@ The thesis proposes a sustained prediction as the alert: State 2 or higher for a
 
 # External evaluation (3W dataset)
 
-The 3W dataset used is available from ricardovvargas: [[https://github.com/petrobras/3W_dataset](https://github.com/petrobras/3W)]
+The 3W data is not included in this repository. This thesis uses the original version (1.0.0, 1,984 instances) of the 3W dataset, which can be downloaded from https://github.com/ricardovvargas/3w_dataset. Newer versions are maintained at https://github.com/petrobras/3W, but their instances and labels differ from the ones used here.
 
 The trained pipeline is applied without retraining to 36 runs from the 3W dataset: four runs from each of the nine classes (normal operation and eight undesirable event types). Everything for this step is in `Verification/`.
 
